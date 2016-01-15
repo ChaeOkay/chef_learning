@@ -1,0 +1,1 @@
+Walking through [Learning Chef](http://www.amazon.com/Learning-Chef-Configuration-Management-Automation/dp/1491944935/ref=sr_1_1?ie=UTF8&qid=1452820186&sr=8-1&keywords=learning+chef), giving some of the exercises a little pizzazz.
